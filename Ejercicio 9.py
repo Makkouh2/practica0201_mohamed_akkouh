@@ -1,0 +1,5 @@
+x=(input("Escriba su fecha de nacimiento"))
+print(x[0:10]) 
+print("dia",x[0:2])
+print("mes",x[3:5])
+print("año",x[6:10])
